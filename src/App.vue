@@ -31,7 +31,7 @@ export default {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
+  text-align: right;
   color: #084179;
   margin-top: 30px;
   background-color: powderblue;
